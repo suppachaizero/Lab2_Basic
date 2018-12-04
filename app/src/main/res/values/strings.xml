@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab1_Basic</string>
+    <string name="name">Suppachai_Khunnoo</string>
+    <string name="nickname">ZERO</string>
+    <string name="address">สาขาวิศวกรรมคอมพิวเตอร์ สาขาอุคสาหกรรม มหาวิทยาลัยเทคโนโลยีรายมงคลศรีวิชัย วิทยาลัยรัตภูมิ</string>
+    <color name="Bg1">#04f204</color>
+</resources>
